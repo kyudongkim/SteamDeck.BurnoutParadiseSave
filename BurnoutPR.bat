@@ -1,0 +1,1 @@
+start E:\steamapps\common\BurnoutPR\BurnoutPR.orig.exe -skipvideos
